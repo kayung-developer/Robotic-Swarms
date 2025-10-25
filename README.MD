@@ -24,7 +24,7 @@ This project includes several simulations that demonstrate autonomous agent-base
 
 This simulation (Figure 2) models an on-demand manufacturing process where autonomous bots gather raw materials (yellow) and assemble them into a predefined structure, such as a wire (pink). This demonstrates the potential for decentralized systems in manufacturing.
 
-<img src="/figure_2.png" alt="On-Demand Manufacturing Simulation" width="500"/>
+<img src="https://github.com/kayung-developer/Robotic-Swarms/blob/main/Figure_2.png" alt="On-Demand Manufacturing Simulation" width="500"/>
 
 ### Targeted Oncology
 
@@ -32,7 +32,7 @@ This simulation (Figure 2) models an on-demand manufacturing process where auton
 
 Figure 3 illustrates a simulation of targeted oncology. Autonomous bots are deployed in healthy tissue (purple) to identify and eliminate a tumor (yellow). The simulation shows the initial state with the tumor and the final state after the tumor has been eradicated, leaving behind benign, treated tissue.
 
-<img src="/figure_3.png" alt="Targeted Oncology Simulation" width="500"/>
+<img src="https://github.com/kayung-developer/Robotic-Swarms/blob/main/Figure_3.png" alt="Targeted Oncology Simulation" width="500"/>
 
 ### Self-Healing Materials
 
@@ -43,8 +43,8 @@ These simulations (Figures 4 and 7) model a self-healing material. When a crack 
 *   **Figure 4:** This simulation shows the initial crack, the convergence of bots on the damaged area, and the final repaired material.
 *   **Figure 7:** This simulation shows the initial material with a crack, the migration and repairing action of a swarm of bots, and the final repaired state.
 
-<img src="/figure_4.png" alt="Self-Healing Material Simulation" width="600"/>
-<img src="/figure_7.png" alt="Self-Healing Material Simulation" width="600"/>
+<img src="https://github.com/kayung-developer/Robotic-Swarms/blob/main/Figure_4.png" alt="Self-Healing Material Simulation" width="600"/>
+<img src="https://github.com/kayung-developer/Robotic-Swarms/blob/main/Figure_7.png" alt="Self-Healing Material Simulation" width="600"/>
 
 ### Environmental Remediation
 
@@ -52,7 +52,7 @@ These simulations (Figures 4 and 7) model a self-healing material. When a crack 
 
 This simulation (Figure 5) models the neutralization of an environmental contaminant. The simulation begins with an initial spill, shows the neutralization process in progress, and ends with the contaminant fully neutralized.
 
-<img src="/figure_5.png" alt="Environmental Remediation Simulation" width="600"/>
+<img src="https://github.com/kayung-developer/Robotic-Swarms/blob/main/Figure_5.png" alt="Environmental Remediation Simulation" width="600"/>
 
 ### Physical Data Encryption
 
@@ -60,7 +60,7 @@ This simulation (Figure 5) models the neutralization of an environmental contami
 
 This simulation (Figure 6) demonstrates physical data encryption using a cellular automaton (Rule 30). An initial single point of data (plaintext) evolves over time into a complex, encrypted pattern.
 
-<img src="/figure_6.png" alt="Physical Data Encryption Simulation" width="600"/>
+<img src="https://github.com/kayung-developer/Robotic-Swarms/blob/main/Figure_6.png" alt="Physical Data Encryption Simulation" width="600"/>
 
 ## Comparative Analysis
 
@@ -68,7 +68,7 @@ This simulation (Figure 6) demonstrates physical data encryption using a cellula
 
 Figure 8 provides a comparative analysis of traditional methods versus the Emergent Phenomena and Swarm Intelligence (EP-TM) approach across different domains. The chart highlights the superior performance of the EP-TM approach in terms of adaptability, precision, and autonomy.
 
-<img src="/figure_8.png" alt="Comparative Analysis Chart" width="600"/>
+<img src="https://github.com/kayung-developer/Robotic-Swarms/blob/main/Figure_8.png" alt="Comparative Analysis Chart" width="600"/>
 
 ## Running the Simulations
 
@@ -93,3 +93,4 @@ You can install these dependencies using pip:
 pip install numpy matplotlib
 
 ```
+
