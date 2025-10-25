@@ -24,7 +24,7 @@ This project includes several simulations that demonstrate autonomous agent-base
 
 This simulation (Figure 2) models an on-demand manufacturing process where autonomous bots gather raw materials (yellow) and assemble them into a predefined structure, such as a wire (pink). This demonstrates the potential for decentralized systems in manufacturing.
 <p align="center">
-  <img src="images/Figure_2.png" alt="" width="500" />
+  <img src="./images/Figure_2.png" alt="" width="500" />
 </p>
 
 
@@ -35,7 +35,7 @@ This simulation (Figure 2) models an on-demand manufacturing process where auton
 Figure 3 illustrates a simulation of targeted oncology. Autonomous bots are deployed in healthy tissue (purple) to identify and eliminate a tumor (yellow). The simulation shows the initial state with the tumor and the final state after the tumor has been eradicated, leaving behind benign, treated tissue.
 
 <p align="center">
-  <img src="images/Figure_3.png" alt="" width="500" />
+  <img src="./images/Figure_3.png" alt="" width="500" />
 </p>
 
 ### Self-Healing Materials
@@ -48,11 +48,12 @@ These simulations (Figures 4 and 7) model a self-healing material. When a crack 
 *   **Figure 7:** This simulation shows the initial material with a crack, the migration and repairing action of a swarm of bots, and the final repaired state.
 
 <p align="center">
-  <img src="images/Figure_4.png" alt="" width="500"/>
+  <img src="./images/Figure_4.png" alt="" width="500" />
 </p>
 <p align="center">
-  <img src="images/Figure_7.png" alt="" width="500"/>
+  <img src="./images/Figure_7.png" alt="" width="500" />
 </p>
+
 ### Environmental Remediation
 
 **Script:** `env_remediation.py`
@@ -60,7 +61,7 @@ These simulations (Figures 4 and 7) model a self-healing material. When a crack 
 This simulation (Figure 5) models the neutralization of an environmental contaminant. The simulation begins with an initial spill, shows the neutralization process in progress, and ends with the contaminant fully neutralized.
 
 <p align="center">
-  <img src="images/Figure_5.png" alt="" width="500"/>
+  <img src="./images/Figure_5.png" alt="" width="500"/>
 </p>
 ### Physical Data Encryption
 
@@ -69,7 +70,7 @@ This simulation (Figure 5) models the neutralization of an environmental contami
 This simulation (Figure 6) demonstrates physical data encryption using a cellular automaton (Rule 30). An initial single point of data (plaintext) evolves over time into a complex, encrypted pattern.
 
 <p align="center">
-  <img src="images/Figure_6.png" alt="" width="500"/>
+  <img src="./images/Figure_6.png" alt="" width="500"/>
 </p>
 ## Comparative Analysis
 
@@ -78,7 +79,7 @@ This simulation (Figure 6) demonstrates physical data encryption using a cellula
 Figure 8 provides a comparative analysis of traditional methods versus the Emergent Phenomena and Swarm Intelligence (EP-TM) approach across different domains. The chart highlights the superior performance of the EP-TM approach in terms of adaptability, precision, and autonomy.
 
 <p align="center">
-  <img src="images/Figure_8.png" alt="" width="500"/>
+  <img src="./images/Figure_8.png" alt="" width="500"/>
 </p>
 ## Running the Simulations
 
@@ -103,6 +104,7 @@ You can install these dependencies using pip:
 pip install numpy matplotlib
 
 ```
+
 
 
 
