@@ -24,7 +24,7 @@ This project includes several simulations that demonstrate autonomous agent-base
 
 This simulation (Figure 2) models an on-demand manufacturing process where autonomous bots gather raw materials (yellow) and assemble them into a predefined structure, such as a wire (pink). This demonstrates the potential for decentralized systems in manufacturing.
 
-<img src="https://github.com/kayung-developer/Robotic-Swarms/blob/main/Figure_2.png" alt="On-Demand Manufacturing Simulation" width="500"/>
+<img src="main/Figure_2.png" alt="On-Demand Manufacturing Simulation" width="500"/>
 
 ### Targeted Oncology
 
@@ -93,4 +93,5 @@ You can install these dependencies using pip:
 pip install numpy matplotlib
 
 ```
+
 
